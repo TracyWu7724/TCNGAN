@@ -9,8 +9,8 @@ Second, the baseline models should include traditional financial statistical mod
 
 ## Result:
 
-**TCNGAN Generated Cumulative Log Return**
-![TCNGAN Generated Cumulative Log Return](https://github.com/TracyWu7724/TCNGAN/blob/main/checkpoints/ret.png) <br>
+**TCNGAN Generated Cumulative Log Return** <br>
+![TCNGAN Generated Cumulative Log Return](https://github.com/TracyWu7724/TCNGAN/blob/main/checkpoints/ret.png)
 
 **TCNGAN Generated Cumulative Log Return V.S. Historical Cumulative Log Return**
 ![TCNGAN Generated Cumulative Log Return V.S. Historical Cumulative Log Return](https://github.com/TracyWu7724/TCNGAN/blob/main/checkpoints/window.png)

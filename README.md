@@ -6,5 +6,5 @@ Discussion: incorporate prior information to better estimate the tail and includ
 
 ![TCNGAN Generated Cumulative Log Return](https://github.com/TracyWu7724/TCNGAN/blob/main/checkpoints/ret.png)
 
-![TCNGAN Generated Cumulative Log Return V.S. Historical Cumulative Log Return](https://github.com/TracyWu7724/TCNGAN/blob/main/checkpoints/ret.png)
+![TCNGAN Generated Cumulative Log Return V.S. Historical Cumulative Log Return](https://github.com/TracyWu7724/TCNGAN/blob/main/checkpoints/window.png)
 
